@@ -23,7 +23,7 @@ const HeroSection = () => (
     <div className="max-w-7xl mx-auto px-4 relative">
       <div className="text-center">
         <img
-          src="src/assets/santa.webp"
+          src="https://raw.githubusercontent.com/akshay-k-a-dev/SANTA-PORTFOLIO/refs/heads/main/src/assets/santa.webp"
           alt="Santa Claus"
           className="w-32 h-32 rounded-full mx-auto mb-6 border-4 border-white shadow-xl"
         />

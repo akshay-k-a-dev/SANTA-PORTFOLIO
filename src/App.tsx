@@ -10,6 +10,7 @@ import CommunitySection from './components/CommunitySection';
 import ContactForm from './components/ContactForm';
 import GiftBox from './components/GiftBox';
 import Reindeer from './components/Reindeer';
+import santaImage from './assets/santa.webp';
 
 // Extract Hero section into its own component for better organization
 const HeroSection = () => (
